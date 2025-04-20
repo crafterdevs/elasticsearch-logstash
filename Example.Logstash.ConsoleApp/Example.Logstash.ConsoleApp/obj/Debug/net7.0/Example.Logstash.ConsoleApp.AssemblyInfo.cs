@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Example.Logstash.ConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2754596a7d5df20e3c2c6e011fe193d23303397f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b98fad8691123ad19524054d6865614241d0a29")]
 [assembly: System.Reflection.AssemblyProductAttribute("Example.Logstash.ConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Example.Logstash.ConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

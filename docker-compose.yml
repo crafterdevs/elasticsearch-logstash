@@ -30,7 +30,7 @@ services:
       - ./logstash.conf:/usr/share/logstash/pipeline/logstash.conf
       - ./logstash.yml:/usr/share/logstash/config/logstash.yml
     ports:
-      - "5000:5000"
+      - "5003:5003"
     depends_on:
       - elasticsearch
     networks:
